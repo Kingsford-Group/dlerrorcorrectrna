@@ -17,4 +17,8 @@ In addition, also install the following software packages and tools: <br>
 Modify the directory paths (`bin_dir`) accordingly in the code of this repository (several `.py` and `.sh` files), to point to your local directory that holds the source code of this repository and your local directories that hold the executables of the corresponding software tools.
 
 
+# Model
+
+The neural network model trained with ONT RNA-seq (cDNA) data is available under the `model/` directory (`trained_model/`) in this repository.
+
 
